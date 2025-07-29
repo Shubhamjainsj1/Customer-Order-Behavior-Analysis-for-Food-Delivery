@@ -1,0 +1,14 @@
+#requirements.txt
+
+## Install dependencies
+
+pip install -r requirements.txt
+
+### If requirements.txt is missing, install manually:
+pip install streamlit pandas matplotlib seaborn
+
+## Run the app
+
+streamlit run main.py
+
+## Open browser at http://localhost:8501
