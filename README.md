@@ -43,3 +43,17 @@ The dataset contains details such as:
 ```bash
 git clone https://github.com/Shubhamjainsj1/Customer-Order-Behavior-Analysis-for-Food-Delivery.git
 cd Customer-Order-Behavior-Analysis-for-Food-Delivery
+```
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+````
+ ***If requirements.txt is missing, install manually:***
+```bash
+pip install streamlit pandas matplotlib seaborn
+````
+3.  **Run the app**
+```bash
+streamlit run main.py
+```
+4. **Open browser at http://localhost:8501**
