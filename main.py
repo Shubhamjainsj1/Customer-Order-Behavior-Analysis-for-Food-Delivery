@@ -186,7 +186,7 @@ if st.checkbox("📄 Show raw data"):
     st.dataframe(filtered_df)
 
 # -----------------------------
-# 🧠 PHASE 1: Predict Delivery Time using XGBoost
+#  Predict Delivery Time using XGBoost
 # -----------------------------
 st.subheader("📈 Predict Delivery Time (Regression Model)")
 
