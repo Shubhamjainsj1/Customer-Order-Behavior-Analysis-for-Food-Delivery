@@ -12,3 +12,4 @@ scipy==1.16.1
 xgboost==3.0.4
 streamlit
 matplotlib
+seaborn
