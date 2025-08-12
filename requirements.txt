@@ -10,4 +10,5 @@ pytest==8.4.1
 PyYAML==6.0.2
 scipy==1.16.1
 xgboost==3.0.4
-streamlit==1.25.0
+streamlit
+matplotlib
