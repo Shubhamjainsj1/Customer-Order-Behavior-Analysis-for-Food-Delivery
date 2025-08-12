@@ -57,5 +57,5 @@ pip install streamlit pandas matplotlib seaborn
 streamlit run main.py
 ```
 4. **Open browser at http://localhost:8501**
-
-5. **Link To View Deployed Page** : https://customer-order-behavior-analysis-for-food-delivery.streamlit.app/
+  ---
+# Link To View Deployed Page : https://customer-order-behavior-analysis-for-food-delivery.streamlit.app/
