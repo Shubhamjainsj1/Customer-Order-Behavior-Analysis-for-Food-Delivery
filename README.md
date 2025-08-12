@@ -58,4 +58,4 @@ streamlit run main.py
 ```
 4. **Open browser at http://localhost:8501**
 
-5. **Link To Access** : https://customer-order-behavior-analysis-for-food-delivery.streamlit.app/
+5. **Link To View Deployed Page** : https://customer-order-behavior-analysis-for-food-delivery.streamlit.app/
